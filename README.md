@@ -21,4 +21,14 @@ mobile app call an amburance
 - มีการเรียก2แบบ 1.แบบระดับผู้ป่วยฉุกเฉินไม่รุนแรง ระบุอาการผู้ป่วยก่อนเรียก 2.แบบฉุกเฉินรุนแรง สามารถเรียกได้ทันที  
 ### 4.เขียน Low-Fidelity Wireframe ลง Post-it หนึ่งแผ่นต่อหนึ่งหน้า (อ่านเพิ่มเติมได้ที่ Link)
 •เขียนชื่อหน้าจอกำกับด้วย
-https://ibb.co/jZ5H2zv
+https://ibb.co/jZ5H2zv  
+### 5.ทำทุดอย่างใหม่ให้เป็น Figma  
+Low-fidelity Wireframe  
+- https://www.figma.com/file/YYqDmeGcyVL3RUtqu18rN7/low-fidelity-wireframe?node-id=0%3A1  
+
+High-fidelity Wireframe 
+- https://www.figma.com/file/EfEPtMQxS41TxuJVeB5OQo/high-fidelity-wireframe  
+### 6..หา Mobile App ที่จะเป็น Inspiration ด้าน design ให้เราได้ อย่างน้อย 3 App  
+1. t  
+2. t  
+3. t
