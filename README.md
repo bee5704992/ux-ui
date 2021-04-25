@@ -32,5 +32,5 @@ High-fidelity Wireframe
 1. https://www.behance.net/gallery/84082485/UIUX-Smart-Pharmacy-mobile-app?tracking_source=search  
 2. https://www.behance.net/gallery/117793339/Medical-App-Case-Study-UIUX?tracking_source=search_projects_recommended%7Cmobile%20app%20health  
 3. https://www.behance.net/gallery/105647943/Callert-life-saving-procedures-digitized?tracking_source=search_projects_recommended%7Cmobile%20app%20health  
-### 7.7.ทำ Moodboard ใส่ Figma ใส่เป็นอีก File  
+### 7.ทำ Moodboard ใส่ Figma ใส่เป็นอีก File  
 - https://www.figma.com/file/fFTXPeGpix6WpQKY89NTPG/mood-board?node-id=0%3A1
